@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @projectraya
+- 👋 Hi, I’m Raya
 - 👀 I’m interested in: Solving problems and puzzles, Mystery, Robotics, Creating art in different forms, Trying new things
 - 🌱 I’m currently learning how to program in C# language as my major in high school.
 - 💞️ I’m looking to collaborate on all types of projects, a on variety of topics. If I find it interesting, I will do everything I can to offer my help.
