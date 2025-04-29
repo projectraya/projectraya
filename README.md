@@ -10,9 +10,9 @@
   - Version Control: Git (basic usage)
 
   SOFT SKILLS:
-- Teamworking
-- Self-developing
-- Curious
+  - Teamworking
+  - Self-developing
+  - Curious
 
   Personal Branding Website
   https://sites.google.com/buditel.bg/personal-branding-raya-minkova/home?authuser=0
