@@ -12,7 +12,7 @@
   SOFT SKILLS:
   - Teamworking
   - Self-developing
-  - Curious
+  - Adaptability
 
   Personal Branding Website
   https://sites.google.com/buditel.bg/personal-branding-raya-minkova/home?authuser=0
