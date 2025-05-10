@@ -10,8 +10,8 @@
   - Version Control: Git (basic usage)
 
   SOFT SKILLS:
-  - Teamworking
-  - Self-developing
+  - Motivation
+  - Self-development
   - Adaptability
 
   Personal Branding Website
